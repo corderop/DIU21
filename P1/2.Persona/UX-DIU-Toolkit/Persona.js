@@ -34,7 +34,7 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Juan Bolívar",
-				Photo: "hombre.png",
+				Photo: "man.jpg",
 				Quote: "Vivir hasta que duela",
 				Age: 28,
 				Occupation: "Funcionario de prisiones",
@@ -81,7 +81,7 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Aliona Ekaterina",
-				Photo: "mujer.png",
+				Photo: "woman.jpg",
 				Quote: "Если вы можете мечтать об этом, вы можете это получить (Si lo puedes soñar, lo puedes lograr)",
 				Age: 38,
 				Occupation: "Costurera",
