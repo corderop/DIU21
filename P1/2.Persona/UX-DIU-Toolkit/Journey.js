@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU1.PJ";
         $scope.Curso ="2020/21";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -34,15 +34,15 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Juan Bolívar",
+                Photo: "man.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "Quiere pasar tiempo con su pareja, ademas de acercarse al mundo animal",
+                touch1: "Ordenador",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
+                con1: "Coincidir con su pareja y su familia a la vez, además de no tener claro lo que busca en el viaje",
+                ima1: "cartoon-writting2.png",
 				
                 /*** PASO #2: DECICION ***/ 
                 goal2: "Busca en internet ofertas para esas fechas",
