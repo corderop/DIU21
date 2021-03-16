@@ -8,8 +8,24 @@ La aplicación que hemos elegido frente a las otros competidores es la de Inspir
 
 ## 2. Personas
 
+En primer lugar tenemos al usuario de Juan Bolivar, una persona con unas cualidades y conocimientos de tecnología actuales elevados. Debido a que se encuentra en un puesto de trabajo en el cuál debe usar ciertas herramientas de ofimática(como en general las personas), además que al ser una persona más joven tiene más facilidad de aprendizaje de nuevas tecnologías.
+
 ![](./2.Persona/persona_hombre.png)
+
+En segundo lugar tenemos Aliona Ekaterina, una persona que no ha estado tan familiarizada con las tecnologías actuales. Debido a las circunstancias personales que ha tenido en su vida , por tanto es un tipo de usuario que no tendrá tanta facilidad de comprensión y acceso a nuevas herramientas que no conozca previamente.
+
 ![](./2.Persona/persona_mujer.png)
+
+## 3. Journey Maps
+
+Tenemos dos casos muy opuestos una persona familiarizada con las tecnologías que teniendo una cierta formación consigue el objetivo de obtener su itinerario (aunque tuve algunas dudas). Y una segunda persona que no esta familiarizada con el uso de la tecnología que tras no encontrar ayuda ni resultados o guias de funcionamiento claras dentro de la web decide rechazar nuestra página.
+
+![](./3.JourneyMaps/journeyMap_man.png)
+![](./3.JourneyMaps/journeyMap_woman.png)
+
+## 4. Revisión de usabilidad
+
+
 
 ---
 

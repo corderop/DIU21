@@ -44,45 +44,45 @@ angular.module("angular", [])
                 con1: "Coincidir con su pareja y su familia a la vez, además de no tener claro lo que busca en el viaje",
                 ima1: "cartoon-writting2.png",
 				
-                /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
+                /*** PASO #2: DECISION ***/ 
+                goal2: "Buscar herramientas para tomar ideas de que hacer, en base a sitios a los que le gustaría ir",
+                touch2: "Ordenador",
                 feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                con2: "Tiene demasiadas ofertas a la hora de elegir la página adecuada",
+                ima2: "cartoon-PCSurprised.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
-                feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
-                ima3: "cartoon-phone.png",
+                goal3: "Buscar el itinerario sobre el lugar al que va a viajar",
+                touch3: "Ordenador",
+                feel3: "1",
+                con3: "No le aparece ningún resultado acorde a lo que debería aparecer en un itinerario completo.",
+                ima3: "cartoon-PCangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
+                goal4: "Una vez encontrada la herramienta para planificar día a día el itinerarios, planificarlo en base a sus gustos.",
+                touch4: "Ordenador",
                 feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
+                con4: "Encontrar actividades que sean de su agrado.",
                 ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "Añadir todas las actividades a realizar durante el viaje.",
+                touch5: "Ordenador",
+                feel5: "4",
+                con5: "No todas las actividades tienen la información suficiente para escogerlas (descripción, precios...)",
+                ima5: "cartoon-thinking.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
+                goal6: "Tras realizar el itinerario, buscar una forma de compartir el itinerario con su familia y pareja.",
                 touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
-                ima6: "cartoon-resting.png",
+                feel6: "2",
+                con6: "Difícil acceso a la extracción del itinerario. (Poco intuitivo)",
+                ima6: "cartoon-looking.png",
                 
 			},
 			{	
@@ -92,55 +92,55 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Aliona Ekaterina",
+				Photo: "woman.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
+                goal1: "Vivir nuevas experiencias dentro de los lugares que busca visitar",
+                touch1: "Móvil",
                 feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                con1: "Encontrar alguna plataforma que le permitan realizar esta función.",
                 ima1: "cartoon-going.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Buscar una plataforma/web que le permita realizar un itinerario.",
+                touch2: "Móvil",
+                feel2: "3",
+                con2: "Encontrar la página ideal sin tener un criterio claro.",
+                ima2: "cartoon-phone-sitting.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
+                goal3: "Una vez ha entrado en la web, encontrar un itinerario para su destino",
+                touch3: "Móvil (interfaz web)",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                con3: "La página no es responsive, no se adapta a las dimensiones de un teléfono móvil, por lo que le es muy complicado de manejar.",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
+                goal4: "Tras conseguir introducir su localización, la página no ofrece ningún resultado.",
+                touch4: "Móvil (interfaz web)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                con4: "Conseguir localizar donde se encuentra el itinerario que le ofrece la página.",
+                ima4: "cartoon-why.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
-                feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                goal5: "Tras no encontrar el itinerario, intenta contactar con un asistente de la plataforma.",
+                touch5: "Móvil (interfaz web)",
+                feel5: "1",
+                con5: "No encuentra la forma de contacto humano o telefónico, solo a través de un formulario.",
+                ima5: "cartoon-crying.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
+                goal6: "Buscar una nueva plataforma en la que diseñar su itinerario de forma más intuitiva y fácil.",
+                touch6: "Móvil (interfaz web)",
                 feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                con6: "No haber obtenido los resultados adecuados y tener que comenzar de nuevo con el proceso de búsqueda",
+                ima6: "cartoon-KO.png",
                 
                 
                 
