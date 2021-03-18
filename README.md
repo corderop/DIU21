@@ -46,8 +46,8 @@ En segundo lugar tenemos Aliona Ekaterina, una persona que no ha estado tan fami
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![](./3.JourneyMaps/journeyMap_man.png)
-![](./3.JourneyMaps/journeyMap_woman.png)
+![](./P1/3.JourneyMaps/journeyMap_man.png)
+![](./P1/3.JourneyMaps/journeyMap_woman.png)
 
 Tenemos dos casos muy opuestos una persona familiarizada con las tecnologías que teniendo una cierta formación consigue el objetivo de obtener su itinerario (aunque tuve algunas dudas). Y una segunda persona que no esta familiarizada con el uso de la tecnología que tras no encontrar ayuda ni resultados o guias de funcionamiento claras dentro de la web decide rechazar nuestra página.
 
