@@ -63,7 +63,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 2 }
 					
 				], 
-                Contextos: "Le gustaría darle una sorpresa a su pareja, a la vez que explorar mundo. Además, siempre ha querido adentrarse más en el mundo animal, visitanto sus hábitats naturales.",  
+                Contextos: "Pasar más tiempo con sus seres queridos, hacer todo lo posible por mejorar el trato del humano con los animales y conseguir aumentar sus capacidades musicales.",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 2 },
 					{ Name: "Online & Social Media", Value: 5 },
@@ -108,7 +108,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "Con el contexto de la herencia obtenida de su padre, le gustaría conocer otros lugares y culturas." ,
+                Contextos: "No malgastar el tiempo en cosas innecesarias. Formar una familia y comenzar a ser un poco más egoísta, centrándose un poco más en si misma en lugar de en los demás." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
 					{ Name: "Online & Social Media", Value: 1 },
