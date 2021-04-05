@@ -41,7 +41,7 @@ En primer lugar tenemos al usuario de Juan Bolivar, una persona con unas cualida
 
 En segundo lugar tenemos Aliona Ekaterina, una persona que no ha estado tan familiarizada con las tecnologías actuales. Debido a las circunstancias personales que ha tenido en su vida , por tanto es un tipo de usuario que no tendrá tanta facilidad de comprensión y acceso a nuevas herramientas que no conozca previamente.
 
-![](./2.Persona/persona_mujer.png)
+![](./P1/2.Persona/persona_mujer.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
