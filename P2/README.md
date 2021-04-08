@@ -32,9 +32,9 @@ Nuestra propuesta de aplicación se centrará en la organización de las activid
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+Hemos decidido usar una matriz de tareas/usuarios(User/task matrix) debido a que expresa de forma más clara las principales funciones y relevancia que tienen una tarea con respecto del tipo de usuario , solamente con realizar un barrido visual. Mientras que bajo nuestro punto de vista los flujos de usuario y tareas no muestran con claridad la funcionalidad o tipo de usuario solamente con un vistazo sino que estaría más enfocados a un diseño o boceto , el cuál realizaremos en un puntos posteriores.
 
+![](./recursos/task-matrix.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
 

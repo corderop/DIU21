@@ -5,7 +5,8 @@ Grupo: DIU1_01PJ.  Curso: 2020/21
 Updated: 18/3/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+
+**Froter**
 
 Descripción: 
 
