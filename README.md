@@ -10,7 +10,7 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -67,47 +67,78 @@ En conclusión creemos que la puntuación refleja bien la usabilidad de la plata
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+### Ideación 
 
+#### Malla receptora de información 
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+![](./P2/recursos/malla-receptora.png)
 
+#### Mapa de empatía
+
+**Aliona Ekaterina**
+
+![](./P2/recursos/mapa-empatia-mujer.png)
+
+**Juan Bolivar**
+
+![](./P2/recursos/mapa-empatia-hombre.png)
+
+#### Point of View 
+
+|           Usuario           |                                    Necesidad                                   |                                                                                                  Insight                                                                                                 |
+|:---------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|       Padre de familia      |        Encontrar un viaje romántico y diferente para hacer con su mujer        | Los últimos viajes realizados le han parecido demasiado monótonos, realizando las actividades típicas del destino, por lo que buscar realizar un itinerario diverso con actividades de diferentes tipos. |
+|       Grupo de amigos       |  Organizar un itinerario exótico para la despedida de soltero de uno de ellos  |                             Las agencias de viajes y plataformas más conocidas les han propuesto viajes típicos en lugar de viajes más orientados a la diversión y la fiesta.                            |
+| Aficionado a la gastronomía | Crear un plan de viaje para conocer y probar las comidas de diferentes lugares |      Quiere centrar su viaje en conocer mejor la gastronomía de otros lugares y no tanto en conocer su cultura. Para esto buscar realizar planes relacionados con actividades menos convencionales.      |
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad.
+
+![](./P2/recursos/propuesta-de-valor.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Hemos decidido usar una matriz de tareas/usuarios(User/task matrix) debido a que expresa de forma más clara las principales funciones y relevancia que tienen una tarea con respecto del tipo de usuario , solamente con realizar un barrido visual. Mientras que bajo nuestro punto de vista los flujos de usuario y tareas no muestran con claridad la funcionalidad o tipo de usuario solamente con un vistazo sino que estaría más enfocados a un diseño o boceto , el cuál realizaremos en un puntos posteriores.
 
+![](./P2/recursos/task-matrix.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![](./P2/recursos/sitemap.png)
 
->>> Identificar términos para diálogo con usuario  
+En el apartado de labelling vamos a seleccionar los 5 grandes bloques de nuestra plataformas debido a que dentro de ellos las acciones son bastantes concretas.
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![](./P2/recursos/labeling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+#### Inicio y login
 
+![](./recursos/bocetos/bocetos1.png)
+
+#### Itinerario
+
+![](./recursos/bocetos/bocetos2.png)
+
+#### Actividades
+
+![](./recursos/bocetos/bocetos3.png)
+
+#### Ayuda
+
+![](./recursos/bocetos/bocetos4.png)
+
+#### Comunidad
+
+![](./recursos/bocetos/bocetos5.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
