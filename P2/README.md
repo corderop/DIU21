@@ -52,23 +52,23 @@ En el apartado de labelling vamos a seleccionar los 5 grandes bloques de nuestra
 
 #### Inicio y login
 
-![](./bocetos/bocetos1.png)
+![](./recursos/bocetos/bocetos1.png)
 
 #### Itinerario
 
-![](./bocetos/bocetos2.png)
+![](./recursos/bocetos/bocetos2.png)
 
 #### Actividades
 
-![](./bocetos/bocetos3.png)
+![](./recursos/bocetos/bocetos3.png)
 
 #### Ayuda
 
-![](./bocetos/bocetos4.png)
+![](./recursos/bocetos/bocetos4.png)
 
 #### Comunidad
 
-![](./bocetos/bocetos5.png)
+![](./recursos/bocetos/bocetos5.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
