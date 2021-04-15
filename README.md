@@ -122,23 +122,23 @@ En el apartado de labelling vamos a seleccionar los 5 grandes bloques de nuestra
 
 #### Inicio y login
 
-![](./recursos/bocetos/bocetos1.png)
+![](./P2/recursos/bocetos/bocetos1.png)
 
 #### Itinerario
 
-![](./recursos/bocetos/bocetos2.png)
+![](./P2/recursos/bocetos/bocetos2.png)
 
 #### Actividades
 
-![](./recursos/bocetos/bocetos3.png)
+![](./P2/recursos/bocetos/bocetos3.png)
 
 #### Ayuda
 
-![](./recursos/bocetos/bocetos4.png)
+![](./P2/recursos/bocetos/bocetos4.png)
 
 #### Comunidad
 
-![](./recursos/bocetos/bocetos5.png)
+![](./P2/recursos/bocetos/bocetos5.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
