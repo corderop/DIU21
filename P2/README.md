@@ -71,4 +71,7 @@ En el apartado de labelling vamos a seleccionar los 5 grandes bloques de nuestra
 ![](./recursos/bocetos/bocetos5.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+Creemos que la práctica ha sido muy completa. Nos ha gustado que sea progresiva y que cada una de las partes estén relacionadas entre si, lo que nos ha permitido ir corrigiendo aspectos anteriores conforme la realizábamos. Desde un punto de vista más técnico, lo aprendido en la práctica nos ha proporcionado ese punto de análisis sobre las cuestiones menos técnicas, del que muchas veces se carece en los proyectos. Esto nos permite encontrar el equilibrio, entre funcionalidad y usabilidad, fijando de forma clara el objetivo final.
+
+Como punto negativo creemos que la continuidad con la práctica 1 no es tan clara. Quizás podría enfocarse en diseñar una aplicación directamente relacionada con la práctica 1, buscando solucionar problemas encontrados en esta.
