@@ -26,7 +26,7 @@
 
 ### PROPUESTA DE VALOR
 
-Nuestra propuesta de aplicación se centrará en la organización de las actividades de un viaje, realizando un itinerario para este. Los esfuerzos irán dirigidos a intentar que el usuario encuentre actividades de su preferencia, aun si estas son menos habituales o populares. Solo estará centrada en la organización y búsqueda de actividades a realizar y no en la organización completa del viaje (transporte, alojamiento …). 
+Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad.
 
 ![](./recursos/propuesta-de-valor.png)
 
@@ -38,11 +38,19 @@ Hemos decidido usar una matriz de tareas/usuarios(User/task matrix) debido a que
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
-* Labelling 
+#### Sitemap
 
+![](./recursos/sitemap.png)
+
+#### Labelling 
+
+En el apartado de labelling vamos a seleccionar los 5 grandes bloques de nuestra plataformas debido a que dentro de ellos las acciones son bastantes concretas.
+
+![](./recursos/labeling.png)
 
 ### Prototipo Lo-FI Wireframe 
+
+
 
 
 ### Conclusiones  
