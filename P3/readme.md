@@ -38,6 +38,12 @@ Y por último tenemos la imagen del mar, que nos ha servido de inspiración para
 
 ## Landing Page
 
+Para el landing page, hemos seguido el estilo marcado en el moodboard, utilizando los colores y tipografías seleccionadas. Al entrar aparecería el titular principal con un slogan y un titular de apoyo para este. Además de esto, el usuario se enontrará la llamada a la acción en un color bastante más llamativo reclamando la total atencióñ de este, ya que el objetivo principal de la landing page debe ser que el usuario cree un usuario o visite la página. 
+
+Al hacer scroll aparecerá las características diferenciadoras (o benefícios) de la plataforma frente a otras alternativas. Además aparecerán nuevas declaraciones de refuerzo junto con nuevas imágenes que refuerzan el discurso de la "marca".
+
+Por último, introducimos un argumento de cierre que hace referencia a otra de las partes diferenciales de nuestra plataforma, añadiendo un botón de ayuda por si el usuario tiene dudas sobre la plataforma antes de registrarse.
+
 ![](imagenes/Landingpage.png)
 
 ## Mockup: LAYOUT HI-FI
