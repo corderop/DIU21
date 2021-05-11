@@ -44,11 +44,15 @@ Al hacer scroll aparecerá las características diferenciadoras (o benefícios) 
 
 Por último, introducimos un argumento de cierre que hace referencia a otra de las partes diferenciales de nuestra plataforma, añadiendo un botón de ayuda por si el usuario tiene dudas sobre la plataforma antes de registrarse.
 
+Para realizarlo hemos utilizado Figma.
+
 ![](imagenes/Landingpage.png)
 
 ## Mockup: LAYOUT HI-FI
 
 Los diseños se pueden visualizar de forma "maquetada" [aquí](https://www.figma.com/proto/NRGrsRK6On0TyEOZ2AJ5Db/Material-Baseline-Design-Kit-(Community)?node-id=5%3A5880&scaling=scale-down&page-id=4%3A0).
+
+Para realizar los diseños hemos utilizado Figma, con las plantillas de Material Design.
 
 |                  |                   |                   |
 |------------------|-------------------|-------------------|
@@ -58,6 +62,8 @@ Los diseños se pueden visualizar de forma "maquetada" [aquí](https://www.figma
 
 ## Documentación: Publicación del Case Study
 
+Hemos visto esta práctica muy completa en todos los sentidos. Nos gusta que haya sido tan secuencial, siguiendo un camino "iterativo" aplicando en cada paso lo realizado en el anterior. Por otra parte, nos ha gustado que tenga una continuidad con la anterior práctica, cosa que criticamos con las anteriores. 
 
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+En cuanto a carga de trabajo, creemos que se podría haber distribuido en diferentes prácticas y hacer cada una de las partes más específica. 
+
+En general creemos que ha sido bastante completa y útil.
