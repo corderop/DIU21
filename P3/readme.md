@@ -20,6 +20,8 @@ En el apartado de iconografía, hemos utilizado la que nos proporciona predeterm
 
 Con respecto al apartado del Logotipo, hemos querido que siga la misma gama de colores de nuestra paleta, variando solamente en la sombra de nuestro azul. Además la imagen representada busca representar la forma de un país, sin representar a ninguno en específico, para de esta forma despertar interés por cosas nuevas o nuevos lugares en nuestros usuarios y comunicar indirectamente el ámbito de nuestro proyecto.
 
+![](imagenes/moodboard.png)
+
 **Imágenes inspiradoras**
 
 En el apartado de imágenes inspiradoras, hemos intentado seguir el mismo estilo que se usa actualmente en la apps de viajes pero quedándonos con los detalles que nos parecen más interesantes de cara al usuario. Dichos detalles son en la primera imagen de la app "Bali" su forma de presentación de los lugares que se visitan para de esta forma mostrarlo nosotros en las actividades de nuestros itinerarios. 
@@ -28,7 +30,11 @@ Después tenemos la apps "Travel" la cual usa tonos de colores muy similares a l
 
 Y por último tenemos la imagen del mar, que nos ha servido de inspiración para la creación de nuetsra paleta de colores, ya que buscamos transmitir esa idea.
 
-![](imagenes/moodboard.png)
+![](imagenes/bali.png)
+
+![](imagenes/travelbag.png)
+
+![](imagenes/playa.webp)
 
 ## Landing Page
 
