@@ -38,6 +38,7 @@ Y por último tenemos la imagen del mar, que nos ha servido de inspiración para
 
 ## Landing Page
 
+![](imagenes/Landingpage.png)
 
 ## Mockup: LAYOUT HI-FI
 
