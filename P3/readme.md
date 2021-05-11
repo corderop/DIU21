@@ -48,6 +48,12 @@ Por último, introducimos un argumento de cierre que hace referencia a otra de l
 
 ## Mockup: LAYOUT HI-FI
 
+Los diseños se pueden visualizar de forma "maquetada" [aquí](https://www.figma.com/proto/NRGrsRK6On0TyEOZ2AJ5Db/Material-Baseline-Design-Kit-(Community)?node-id=5%3A5880&scaling=scale-down&page-id=4%3A0).
+
+------------------|-------------------|-------------------|
+![](layout/1.png) | ![](layout/2.png) | ![](layout/3.png) |
+![](layout/4.png) | ![](layout/5.png) | ![](layout/6.png) | 
+![](layout/7.png) | ![](layout/8.png) |                   | 
 
 ## Documentación: Publicación del Case Study
 
