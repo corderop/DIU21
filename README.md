@@ -6,19 +6,15 @@ Updated: 13/05/2021
 
 **Proyecto**: 
 
-Tranger
+![Logotipo](./P3/imagenes/tranger.png)
 
 **Descripción**: 
 
 Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad.
 
-**Logotipo**: 
-
-![Logotipo](./P3/imagenes/tranger.png)
-
 **Conoce nuestro trabajo**
 
-![]
+![](./P3/imagenes/2021-05-13 18-25-38.mkv)
 
 Miembros
  * :bust_in_silhouette: Pablo Cordero Romero :octocat: [corderop](https://github.com/corderop)     
@@ -34,7 +30,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-En primer lugar, pensamos en analizar la competencia en base a distintas aplicaciones, comparándolas con una de las que más llamativas de cara al usuario y la cual ofrecía algo diferente a su competencia. Esta era Inspirock, de la cuál nos gustó que estaba basa en la creación de itinerarios en un determinado lugar y durante unas fechas. 
+En primer lugar, pensamos en analizar la competencia en base a distintas aplicaciones, comparándolas con una de las que más llamativas de cara al usuario y la cual ofrecía algo diferente a su competencia. Esta era **Inspirock**, de la cuál nos gustó que estaba basa en la creación de itinerarios en un determinado lugar y durante unas fechas. 
 
 [Pulsa aquí para ver como hemos analizado las diferentes alternativas](./P1/1.CompetitorAnalysis/Tabla_competitorAnalysis.png)
 
@@ -58,22 +54,20 @@ Tras plantear los dos personas, queríamos realizar una simulación de uso de es
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-Una de las cosas más importantes del diseño de una aplicación debe ser como de usable es esta aplicación de cara a diferentes puntos claves. Bajo un análisis de estándares de usabilidad, hemos llegado a la conclusión de que no estamos ante una aplicación perfecta en cuanto experiencia de usuario, pero cumple bastante bien con lo esencial, encontrándola bastante equilibrada. 
+Una de las cosas más importantes del diseño de una aplicación debe ser como de usable es esta aplicación de cara a diferentes puntos claves. Bajo un análisis de estándares de usabilidad, hemos llegado a la conclusión de que **Inspirock** no es aplicación perfecta en cuanto experiencia de usuario, pero cumple bastante bien con lo esencial, encontrándola bastante equilibrada. 
 
-**Valoración final**: 70/100
+**Valoración final de Inspirock**: 70/100
 
 [Pulsa aquí para ver el documento de review de usabilidad](./P1/Usability-review-realizado.pdf)
 
 ## Paso 2. UX Design  
 
-
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+### Idea de proyecto en base a lo analizado 
 
-### Ideación 
-
-En base a los resultados obtenidos tras el análisis, hemos encontrado una línea de trabajo sobre algunas ideas de las aplicaciones analizadas, a partir de las cuales crear nuevas propuestas para nuestra aplicación.
+En base a los resultados obtenidos tras el análisis, hemos encontrado una línea de trabajo a seguir en el planteamiento de **Tranger**, nuestra propuesta de aplicación, sobre algunas ideas de las aplicaciones analizadas, a partir de las cuales crear nuevas propuestas para nuestra aplicación.
 
 #### Malla receptora de información 
 
@@ -105,21 +99,23 @@ A continuación, hemos realizar un análisis sobre los intereses que tendrán lo
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
-A partir de las ideas planteadas, buscamos llevarlas más al mundo real encontrando las necesidades que pueden surgir, los propósitos que nos tomamos en base a estas, cuales serán nuestros objetivos de cara al diseño de la aplicación y como esto se llevará a la realidad. 
+A partir de las ideas planteadas, buscamos llevarlas más al mundo real encontrando las necesidades que pueden surgir, los propósitos que nos tomamos en base a estas, cuales serán nuestros objetivos de cara al diseño de la aplicación y como esto se llevará a la realidad en **Tranger**.
 
 <!-- Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad. -->
 
 ![](./P2/recursos/propuesta-de-valor.png)
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.b Análisis de funcionalidades
 -----
 
 Una vez definido las ideas a seguir para realizar la aplicación, definimos las principales funcionalides de nuestra aplicación, conociendo los principales puntos a trabajar en nuestra app. También definimos como de importantes y prioritarias son cada una de estas. 
 
+Tras un análisis de todas estas actividades hemos determinado que las funcionalidades más importantes son las relacionadas con las gestión de itinerarios, como es su creación, adición de actividades, etc. 
+
 [](P2#task-analysis)
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.c Secciones del sitio y conceptos principales
 ----
 
 Una vez teníamos las funcionalidades queríamos definir la estructura de estas para crear una visión sólida de toda la aplicación y los flujos de uso de esta.
@@ -128,7 +124,7 @@ Una vez teníamos las funcionalidades queríamos definir la estructura de estas 
 
 Con las funcionalidades y las estructura de estas, decidimos definir aspectos importantes de nuestra aplicación de cara a simplificar o facilitar la comprensión de dichas ideas dentro de nuestro diseño.
 
-[Puls aquí entender cada uno de los conceptos específicos de la aplicación accede al labelling pulsando aquí](./P2/recursos/labeling.png)
+// Añadir labeling
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
