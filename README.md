@@ -6,7 +6,7 @@ Updated: 13/05/2021
 
 **Proyecto**: 
 
-<img width="150" src="./P3/imagenes/tranger.png" />
+<img width="400" src="./P3/imagenes/tranger.png" />
 
 **Descripción**: 
 
