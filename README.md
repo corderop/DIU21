@@ -2,18 +2,19 @@
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
 Grupo: DIU1_01PJ.  Curso: 2020/21 
-Updated: 18/3/2021
+Updated: 13/05/2021
 
-Proyecto: 
+**Proyecto**: 
 
-**Tranger**
+Tranger
 
-Descripción: 
+**Descripción**: 
 
 Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad.
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+**Logotipo**: 
+
+![Logotipo](./P3/imagenes/tranger.png)
 
 Miembros
  * :bust_in_silhouette: Pablo Cordero Romero :octocat: [corderop](https://github.com/corderop)     
@@ -31,34 +32,35 @@ Miembros
 
 La aplicación que hemos elegido frente a las otros competidores es la de Inspirock. Esto es debido a que la aplicación tiene unos puntos fuertes e innovadores bastante interesantes , como por ejemplo es la realización de itinerarios concretos dentro de un período establecido y un lugar concreto. Dicha función puede llegar a ser muy específica como por ejemplo indicar el horario de las visitas a los lugares indicados de interés(culturales , deportivos , gatronómicos , etc). Además dicho itinerario puede ser especificado con las rutas más optimas. Una de las desventajas que puede tener es la que estas actividades  son redirigidas a otras páginas para efectuar sus reservas  y si existen algún cambio o incoveniente como cancelaciones, ellos no se hacen responsables. Otra de las desventajas será el pequeños espectro de idiomas que ofrece, algo clave para una aplicación de viajes.
 
-![](./P1/1.CompetitorAnalysis/Tabla_competitorAnalysis.png)
+[Pulsa aquí para ver la comparación con otras alternativas](./P1/1.CompetitorAnalysis/Tabla_competitorAnalysis.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
 En primer lugar tenemos al usuario de Juan Bolivar, una persona con unas cualidades y conocimientos de tecnología actuales elevados. Debido a que se encuentra en un puesto de trabajo en el cuál debe usar ciertas herramientas de ofimática(como en general las personas), además que al ser una persona más joven tiene más facilidad de aprendizaje de nuevas tecnologías.
 
-![](./P1/2.Persona/persona_hombre.png)
+[Pulsa aquí para ver las características de Juan Bolívar](./P1/2.Persona/persona_hombre.png)
 
 En segundo lugar tenemos Aliona Ekaterina, una persona que no ha estado tan familiarizada con las tecnologías actuales. Debido a las circunstancias personales que ha tenido en su vida , por tanto es un tipo de usuario que no tendrá tanta facilidad de comprensión y acceso a nuevas herramientas que no conozca previamente.
 
-![](./P1/2.Persona/persona_mujer.png)
+[Pulsa aquí para ver las características de Aliona Ekaterina](./P1/2.Persona/persona_mujer.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![](./P1/3.JourneyMaps/journeyMap_man.png)
-![](./P1/3.JourneyMaps/journeyMap_woman.png)
-
 Tenemos dos casos muy opuestos una persona familiarizada con las tecnologías que teniendo una cierta formación consigue el objetivo de obtener su itinerario (aunque tuve algunas dudas). Y una segunda persona que no esta familiarizada con el uso de la tecnología que tras no encontrar ayuda ni resultados o guias de funcionamiento claras dentro de la web decide rechazar nuestra página.
+
+![Pulsa aquí para ver el Journey Map de Juan Bolívar](./P1/3.JourneyMaps/journeyMap_man.png)
+![Pulsa aquí para ver el Journey Map de Aliona Ekaterina](./P1/3.JourneyMaps/journeyMap_woman.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-[Documento de review de usabilidad](./P1/Usability-review-realizado.pdf)
 **Valoración final**: 70/100
 
 En conclusión creemos que la puntuación refleja bien la usabilidad de la plataforma. Encontramos una página bastante equilibrada, con puntos fuertes y puntos débiles. Entre los puntos débiles podemos resaltar algunos problemas de accesibilidad debido a que muchas etiquetas de acciones no representan correctamente el resultado que finalmente se obtiene. Además la falta de apoyo de uso hace que requiera una pequeña curva de aprendizaje al usar la plataforma por primera vez. Como puntos fuertes destaca la interfaz de la aplicación, la cual es bastante limpia y clara. Además proporciona feedbacks de cada una de la actividades obtenidos de servicios externos que permiten hacerse una idea de como puede ser una actividad. Una vez tienes cierto conocimiento de como usar la página, permite una gran variedad de opciones relacionadas con los itinerarios (cambiar horarios, modificar actividades, etc.).
+
+[Pulsa aquí para ver el documento de review de usabilidad](./P1/Usability-review-realizado.pdf)
 
 ## Paso 2. UX Design  
 
