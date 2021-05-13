@@ -14,7 +14,7 @@ Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itin
 
 **Conoce nuestro trabajo**
 
-![](./P3/imagenes/2021-05-13 18-25-38.mkv)
+![](./P3/imagenes/2021-05-13 18-25-38.mp4)
 
 Miembros
  * :bust_in_silhouette: Pablo Cordero Romero :octocat: [corderop](https://github.com/corderop)     
@@ -73,35 +73,16 @@ En base a los resultados obtenidos tras el análisis, hemos encontrado una líne
 
 En ella presentamos una planteamiento visual sobre las principales ideas que queremos potenciar y mejorar de las alternativas previas, además de proponer nuevas para el tipo de aplicación que buscamos conseguir.
 
-[Para ver la malla receptora completa pulsa aquí](./P2/recursos/malla-receptora.png)
+[Pulsa aquí para ver la malla receptora completa](./P2/recursos/malla-receptora.png)
 
 #### Mapa de empatía
 
 A continuación, hemos realizar un análisis sobre los intereses que tendrán los personajes ficticios previamente propuestos, conforme a nuestra propuesta de aplicación.
 
-<!-- **Aliona Ekaterina**
-
-![](./P2/recursos/mapa-empatia-mujer.png)
-
-**Juan Bolivar**
-
-![](./P2/recursos/mapa-empatia-hombre.png)
-
-#### Point of View 
-
-|           Usuario           |                                    Necesidad                                   |                                                                                                  Insight                                                                                                 |
-|:---------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|       Padre de familia      |        Encontrar un viaje romántico y diferente para hacer con su mujer        | Los últimos viajes realizados le han parecido demasiado monótonos, realizando las actividades típicas del destino, por lo que buscar realizar un itinerario diverso con actividades de diferentes tipos. |
-|       Grupo de amigos       |  Organizar un itinerario exótico para la despedida de soltero de uno de ellos  |                             Las agencias de viajes y plataformas más conocidas les han propuesto viajes típicos en lugar de viajes más orientados a la diversión y la fiesta.                            |
-| Aficionado a la gastronomía | Crear un plan de viaje para conocer y probar las comidas de diferentes lugares |      Quiere centrar su viaje en conocer mejor la gastronomía de otros lugares y no tanto en conocer su cultura. Para esto buscar realizar planes relacionados con actividades menos convencionales.      | -->
-
-
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
 A partir de las ideas planteadas, buscamos llevarlas más al mundo real encontrando las necesidades que pueden surgir, los propósitos que nos tomamos en base a estas, cuales serán nuestros objetivos de cara al diseño de la aplicación y como esto se llevará a la realidad en **Tranger**.
-
-<!-- Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad. -->
 
 ![](./P2/recursos/propuesta-de-valor.png)
 
@@ -113,7 +94,7 @@ Una vez definido las ideas a seguir para realizar la aplicación, definimos las 
 
 Tras un análisis de todas estas actividades hemos determinado que las funcionalidades más importantes son las relacionadas con las gestión de itinerarios, como es su creación, adición de actividades, etc. 
 
-[](P2#task-analysis)
+[Pulsa aquí para ver las funcionalidades junto con su importancia](P2#task-analysis)
 
 ![Método UX](img/labelling.png) 2.c Secciones del sitio y conceptos principales
 ----
@@ -122,9 +103,22 @@ Una vez teníamos las funcionalidades queríamos definir la estructura de estas 
 
 ![](./P2/recursos/sitemap.png)
 
-Con las funcionalidades y las estructura de estas, decidimos definir aspectos importantes de nuestra aplicación de cara a simplificar o facilitar la comprensión de dichas ideas dentro de nuestro diseño.
+Con las funcionalidades y las estructura de estas, decidimos definir aspectos importantes de nuestra aplicación de cara a simplificar o facilitar la comprensión de dichas ideas dentro de nuestro diseño. Los conceptos más importantes son:
 
-// Añadir labeling
+
+| **Etiqueta**    | **Objetivo**                                                                                                                                                                                              |
+|:---------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Comunidad       | Aquí se encontrarán todos los itinerarios creados por otras personas junto con sus valoraciones. Se podrán copiar para tratarlos como uno propio en la sección de itinerarios.                            |
+| Itinerario      | Conjunto de actividades a realizar en un viaje o visita a un lugar o localización.                                                                                                                        |
+| Actividades     | Actividad realizada en un itinerario. Podrían ser eventos, lugares a visitar, planes...                                                                                                                   |
+| Ayuda           | Apartado que proporciona una opción de consulta sobre dudas de nuestra plataforma o incluso guía del uso de ella.                                                                                         |
+| Opinión         | Comentario escrito sin puntuación de un usuario acerca de un itinerario completo, enfocado a que se compartan experiencias entre usuarios.                                                                |
+| Valorar         | Acción que permite obtener una ponderación del nivel de satisfacción del usuario dentro de la actividad, se realiza principalmente con un sistema de estrellas (1 estrella= malo; 5 estrellas=muy bueno). |
+| Guía turística  | Guía acerca de una actividad, disponible en audio y texto, para ofrecer al usuario una mejor experiencia realizando esta actividad.                                                                       |
+| Tutorial de uso | Indicaciones en pantalla para el usuario sobre las diferentes secciones y acciones principales de la app.                                                                                                 |
+| Temática        | Clasificación del itinerario o actividad según su tipo o hacia quien esté orientada. Algunos ejemplos son: gastronómico, arquitectónico, cultural...                                                      |
+| Reservar        | Indicar una fecha para realizar esa actividad, para que esta sea reservada por los organizadores.                                                                                                         |
+| Registro        | Acción para la creación de un usuario. A este se le solicitará el correo electrónico, así como una contraseña para acceder.                                                                               |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -160,14 +154,12 @@ Para plasmar la idea de como sería nuestra aplicación creamos unos bocetos que
 
 Para el logotipo hemos querido utilizar el color principal planteador en el [diseño visual](enlace) y hacerlo sobre un fondo sólido. Esto entre otras cosas nos permitirá adaptarlo a diferentes formatos y resoluciones, así como usarlo en negativo. Por otra parte, quisimos reflejar en el la temática de la aplicación representando la forma de un país en él. 
 
-![Logotipo](./P3/imagenes/tranger.png)
-
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 La captación de nuevos clientes la planteamos mediante una landing page, que podrá utilizarse en varios ámbitos, buscando clientes indecisos o aquellos que no conocen la aplicación. 
 
-// Landing page
+![](P3/imagenes/Landingpage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -178,6 +170,13 @@ Hemos querido enfocar la aplicación a dispositivos móviles, ya que con el auge
 ----
 
 Siguiendo los patrones de diseño y las ideas planteadas en todo el proceso, hemos realizado unos mockups que permitirán guiar una fase de desarrollo posterior. Esta es la primera alternativa de diseño presentada de los principales componentes de la aplicación:
+
+3.e Case Study
+----
+
+Puedes obtener una visión más reducida (122 segundos) de nuestro estudio y de **Tranger** en el siguiente video: 
+
+![](./P3/imagenes/2021-05-13 18-25-38.mp4)
 
 
 ## Paso 4. Evaluación 
