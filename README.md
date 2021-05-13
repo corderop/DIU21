@@ -174,7 +174,7 @@ Siguiendo los patrones de diseño y las ideas planteadas en todo el proceso, hem
 3.e Case Study
 ----
 
-Puedes obtener una visión más reducida (122 segundos) de nuestro estudio y de **Tranger** en el siguiente video: 
+Puedes obtener una visión más reducida (136 segundos) de nuestro estudio y de **Tranger** en el siguiente video: 
 
 https://user-images.githubusercontent.com/31637109/118174813-95864780-b42f-11eb-8f3d-2a631d21447e.mp4
 
