@@ -176,8 +176,8 @@ Siguiendo los patrones de diseño y las ideas planteadas en todo el proceso, hem
 
 |                  |                   |                   |                   |
 |------------------|-------------------|-------------------|-------------------|
-![](imagenes/layout/1.png) | ![](imagenes/layout/2.png) | ![](imagenes/layout/3.png) | ![](imagenes/layout/4.png) |
-![](imagenes/layout/5.png) | ![](imagenes/layout/6.png) | ![](imagenes/layout/7.png) | ![](imagenes/layout/8.png) |
+![](P3/imagenes/layout/1.png) | ![](P3/imagenes/layout/2.png) | ![](P3/imagenes/layout/3.png) | ![](P3/imagenes/layout/4.png) |
+![](P3/imagenes/layout/5.png) | ![](P3/imagenes/layout/6.png) | ![](P3/imagenes/layout/7.png) | ![](P3/imagenes/layout/8.png) |
 
 3.e Case Study
 ----
