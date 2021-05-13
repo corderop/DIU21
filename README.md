@@ -50,8 +50,8 @@ En segundo lugar tenemos Aliona Ekaterina, una persona que no ha estado tan fami
 
 Tenemos dos casos muy opuestos una persona familiarizada con las tecnologías que teniendo una cierta formación consigue el objetivo de obtener su itinerario (aunque tuve algunas dudas). Y una segunda persona que no esta familiarizada con el uso de la tecnología que tras no encontrar ayuda ni resultados o guias de funcionamiento claras dentro de la web decide rechazar nuestra página.
 
-![Pulsa aquí para ver el Journey Map de Juan Bolívar](./P1/3.JourneyMaps/journeyMap_man.png)
-![Pulsa aquí para ver el Journey Map de Aliona Ekaterina](./P1/3.JourneyMaps/journeyMap_woman.png)
+[Pulsa aquí para ver el Journey Map de Juan Bolívar](./P1/3.JourneyMaps/journeyMap_man.png)
+[Pulsa aquí para ver el Journey Map de Aliona Ekaterina](./P1/3.JourneyMaps/journeyMap_woman.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
