@@ -16,6 +16,10 @@ Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itin
 
 ![Logotipo](./P3/imagenes/tranger.png)
 
+**Conoce nuestro trabajo**
+
+![]
+
 Miembros
  * :bust_in_silhouette: Pablo Cordero Romero :octocat: [corderop](https://github.com/corderop)     
  * :bust_in_silhouette: Jairo Luis Abril Moya :octocat: [JairoLuisAbrilMoya](https://github.com/JairoLuisAbrilMoya)
@@ -30,25 +34,23 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-La aplicación que hemos elegido frente a las otros competidores es la de Inspirock. Esto es debido a que la aplicación tiene unos puntos fuertes e innovadores bastante interesantes , como por ejemplo es la realización de itinerarios concretos dentro de un período establecido y un lugar concreto. Dicha función puede llegar a ser muy específica como por ejemplo indicar el horario de las visitas a los lugares indicados de interés(culturales , deportivos , gatronómicos , etc). Además dicho itinerario puede ser especificado con las rutas más optimas. Una de las desventajas que puede tener es la que estas actividades  son redirigidas a otras páginas para efectuar sus reservas  y si existen algún cambio o incoveniente como cancelaciones, ellos no se hacen responsables. Otra de las desventajas será el pequeños espectro de idiomas que ofrece, algo clave para una aplicación de viajes.
+En primer lugar, pensamos en analizar la competencia en base a distintas aplicaciones, comparándolas con una de las que más llamativas de cara al usuario y la cual ofrecía algo diferente a su competencia. Esta era Inspirock, de la cuál nos gustó que estaba basa en la creación de itinerarios en un determinado lugar y durante unas fechas. 
 
-[Pulsa aquí para ver la comparación con otras alternativas](./P1/1.CompetitorAnalysis/Tabla_competitorAnalysis.png)
+[Pulsa aquí para ver como hemos analizado las diferentes alternativas](./P1/1.CompetitorAnalysis/Tabla_competitorAnalysis.png)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
-En primer lugar tenemos al usuario de Juan Bolivar, una persona con unas cualidades y conocimientos de tecnología actuales elevados. Debido a que se encuentra en un puesto de trabajo en el cuál debe usar ciertas herramientas de ofimática(como en general las personas), además que al ser una persona más joven tiene más facilidad de aprendizaje de nuevas tecnologías.
+Para analizar la plataforma anteriormente mencionada decidimos plantear dos tipos de personas que podrían interesarse y tener confrontaciones con el uso de la aplicación. Planteamos dos personas ficticias: Juan Bolívar y Aliona Ekaterina.
 
 [Pulsa aquí para ver las características de Juan Bolívar](./P1/2.Persona/persona_hombre.png)
-
-En segundo lugar tenemos Aliona Ekaterina, una persona que no ha estado tan familiarizada con las tecnologías actuales. Debido a las circunstancias personales que ha tenido en su vida , por tanto es un tipo de usuario que no tendrá tanta facilidad de comprensión y acceso a nuevas herramientas que no conozca previamente.
 
 [Pulsa aquí para ver las características de Aliona Ekaterina](./P1/2.Persona/persona_mujer.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-Tenemos dos casos muy opuestos una persona familiarizada con las tecnologías que teniendo una cierta formación consigue el objetivo de obtener su itinerario (aunque tuve algunas dudas). Y una segunda persona que no esta familiarizada con el uso de la tecnología que tras no encontrar ayuda ni resultados o guias de funcionamiento claras dentro de la web decide rechazar nuestra página.
+Tras plantear los dos personas, queríamos realizar una simulación de uso de estas personas en la aplicación Inspirock. Hemos querido localizar los puntos débiles y puntos fuertes del funcionamiento y diseño de esta y de dicha forma plantear una mejor solución, evitando los errores de esta.
 
 [Pulsa aquí para ver el Journey Map de Juan Bolívar](./P1/3.JourneyMaps/journeyMap_man.png)
 [Pulsa aquí para ver el Journey Map de Aliona Ekaterina](./P1/3.JourneyMaps/journeyMap_woman.png)
@@ -56,9 +58,9 @@ Tenemos dos casos muy opuestos una persona familiarizada con las tecnologías qu
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-**Valoración final**: 70/100
+Una de las cosas más importantes del diseño de una aplicación debe ser como de usable es esta aplicación de cara a diferentes puntos claves. Bajo un análisis de estándares de usabilidad, hemos llegado a la conclusión de que no estamos ante una aplicación perfecta en cuanto experiencia de usuario, pero cumple bastante bien con lo esencial, encontrándola bastante equilibrada. 
 
-En conclusión creemos que la puntuación refleja bien la usabilidad de la plataforma. Encontramos una página bastante equilibrada, con puntos fuertes y puntos débiles. Entre los puntos débiles podemos resaltar algunos problemas de accesibilidad debido a que muchas etiquetas de acciones no representan correctamente el resultado que finalmente se obtiene. Además la falta de apoyo de uso hace que requiera una pequeña curva de aprendizaje al usar la plataforma por primera vez. Como puntos fuertes destaca la interfaz de la aplicación, la cual es bastante limpia y clara. Además proporciona feedbacks de cada una de la actividades obtenidos de servicios externos que permiten hacerse una idea de como puede ser una actividad. Una vez tienes cierto conocimiento de como usar la página, permite una gran variedad de opciones relacionadas con los itinerarios (cambiar horarios, modificar actividades, etc.).
+**Valoración final**: 70/100
 
 [Pulsa aquí para ver el documento de review de usabilidad](./P1/Usability-review-realizado.pdf)
 
@@ -71,13 +73,19 @@ En conclusión creemos que la puntuación refleja bien la usabilidad de la plata
 
 ### Ideación 
 
+En base a los resultados obtenidos tras el análisis, hemos encontrado una línea de trabajo sobre algunas ideas de las aplicaciones analizadas, a partir de las cuales crear nuevas propuestas para nuestra aplicación.
+
 #### Malla receptora de información 
 
-![](./P2/recursos/malla-receptora.png)
+En ella presentamos una planteamiento visual sobre las principales ideas que queremos potenciar y mejorar de las alternativas previas, además de proponer nuevas para el tipo de aplicación que buscamos conseguir.
+
+[Para ver la malla receptora completa pulsa aquí](./P2/recursos/malla-receptora.png)
 
 #### Mapa de empatía
 
-**Aliona Ekaterina**
+A continuación, hemos realizar un análisis sobre los intereses que tendrán los personajes ficticios previamente propuestos, conforme a nuestra propuesta de aplicación.
+
+<!-- **Aliona Ekaterina**
 
 ![](./P2/recursos/mapa-empatia-mujer.png)
 
@@ -91,13 +99,15 @@ En conclusión creemos que la puntuación refleja bien la usabilidad de la plata
 |:---------------------------:|:------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |       Padre de familia      |        Encontrar un viaje romántico y diferente para hacer con su mujer        | Los últimos viajes realizados le han parecido demasiado monótonos, realizando las actividades típicas del destino, por lo que buscar realizar un itinerario diverso con actividades de diferentes tipos. |
 |       Grupo de amigos       |  Organizar un itinerario exótico para la despedida de soltero de uno de ellos  |                             Las agencias de viajes y plataformas más conocidas les han propuesto viajes típicos en lugar de viajes más orientados a la diversión y la fiesta.                            |
-| Aficionado a la gastronomía | Crear un plan de viaje para conocer y probar las comidas de diferentes lugares |      Quiere centrar su viaje en conocer mejor la gastronomía de otros lugares y no tanto en conocer su cultura. Para esto buscar realizar planes relacionados con actividades menos convencionales.      |
+| Aficionado a la gastronomía | Crear un plan de viaje para conocer y probar las comidas de diferentes lugares |      Quiere centrar su viaje en conocer mejor la gastronomía de otros lugares y no tanto en conocer su cultura. Para esto buscar realizar planes relacionados con actividades menos convencionales.      | -->
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
-Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad.
+A partir de las ideas planteadas, buscamos llevarlas más al mundo real encontrando las necesidades que pueden surgir, los propósitos que nos tomamos en base a estas, cuales serán nuestros objetivos de cara al diseño de la aplicación y como esto se llevará a la realidad. 
+
+<!-- Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itinerarios alternativos. Dichos itinerarios pueden ser de diferentes temáticas(cultural, gastronómicos,deportivos,etc) , además se proporcionará una comunidad de la plataforma para consultar las experiencias de los usuarios en estos itinerarios o actividades. Por último se proporciona un guía turístico nativo del lugar que se visita para proporcionar una expercienca más intima y formativa de la actividad. -->
 
 ![](./P2/recursos/propuesta-de-valor.png)
 
@@ -105,22 +115,26 @@ Nuestro proyecto llamado Tranger consiste en una plataforma de creación de itin
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
-Hemos decidido usar una matriz de tareas/usuarios(User/task matrix) debido a que expresa de forma más clara las principales funciones y relevancia que tienen una tarea con respecto del tipo de usuario , solamente con realizar un barrido visual. Mientras que bajo nuestro punto de vista los flujos de usuario y tareas no muestran con claridad la funcionalidad o tipo de usuario solamente con un vistazo sino que estaría más enfocados a un diseño o boceto , el cuál realizaremos en un puntos posteriores.
+Una vez definido las ideas a seguir para realizar la aplicación, definimos las principales funcionalides de nuestra aplicación, conociendo los principales puntos a trabajar en nuestra app. También definimos como de importantes y prioritarias son cada una de estas. 
 
-![](./P2/recursos/task-matrix.png)
+[](P2#task-analysis)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+Una vez teníamos las funcionalidades queríamos definir la estructura de estas para crear una visión sólida de toda la aplicación y los flujos de uso de esta.
+
 ![](./P2/recursos/sitemap.png)
 
-En el apartado de labelling vamos a seleccionar los 5 grandes bloques de nuestra plataformas debido a que dentro de ellos las acciones son bastantes concretas.
+Con las funcionalidades y las estructura de estas, decidimos definir aspectos importantes de nuestra aplicación de cara a simplificar o facilitar la comprensión de dichas ideas dentro de nuestro diseño.
 
-![](./P2/recursos/labeling.png)
+[Puls aquí entender cada uno de los conceptos específicos de la aplicación accede al labelling pulsando aquí](./P2/recursos/labeling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+
+Para plasmar la idea de como sería nuestra aplicación creamos unos bocetos que muestra como queremos enfocar el resultado final.
 
 #### Inicio y login
 
@@ -148,36 +162,26 @@ En el apartado de labelling vamos a seleccionar los 5 grandes bloques de nuestra
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Para el logotipo hemos querido utilizar el color principal planteador en el [diseño visual](enlace) y hacerlo sobre un fondo sólido. Esto entre otras cosas nos permitirá adaptarlo a diferentes formatos y resoluciones, así como usarlo en negativo. Por otra parte, quisimos reflejar en el la temática de la aplicación representando la forma de un país en él. 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+![Logotipo](./P3/imagenes/tranger.png)
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+La captación de nuevos clientes la planteamos mediante una landing page, que podrá utilizarse en varios ámbitos, buscando clientes indecisos o aquellos que no conocen la aplicación. 
 
->>> Plantear Landing Page 
+// Landing page
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Hemos querido enfocar la aplicación a dispositivos móviles, ya que con el auge de la telefonía móvil, sería mucho más fácil llegar a un público más amplio. Para esto hemos seguido patrones altemente probados en móviles como son los presentados por Google con Material Design, centrándonos principalmente en estos dispositivos y en como son usados.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Siguiendo los patrones de diseño y las ideas planteadas en todo el proceso, hemos realizado unos mockups que permitirán guiar una fase de desarrollo posterior. Esta es la primera alternativa de diseño presentada de los principales componentes de la aplicación:
 
 
 ## Paso 4. Evaluación 

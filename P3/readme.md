@@ -120,6 +120,8 @@ Para realizar los diseños hemos utilizado Figma, con las plantillas de Material
 ![](imagenes/layout/4.png) | ![](imagenes/layout/5.png) | ![](imagenes/layout/6.png) | 
 ![](imagenes/layout/7.png) | ![](imagenes/layout/8.png) |                   | 
 
+## Caso de estudio
+
 ## Conclusión
 
 Hemos visto esta práctica muy completa en todos los sentidos. Nos gusta que haya sido tan secuencial, siguiendo un camino "iterativo" aplicando en cada paso lo realizado en el anterior. Por otra parte, nos ha gustado que tenga una continuidad con la anterior práctica, cosa que criticamos con las anteriores. 
