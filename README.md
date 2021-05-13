@@ -165,12 +165,19 @@ La captación de nuevos clientes la planteamos mediante una landing page, que po
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Hemos querido enfocar la aplicación a dispositivos móviles, ya que con el auge de la telefonía móvil, sería mucho más fácil llegar a un público más amplio. Para esto hemos seguido patrones altemente probados en móviles como son los presentados por Google con Material Design, centrándonos principalmente en estos dispositivos y en como son usados.
+Hemos querido enfocar la aplicación a dispositivos móviles, ya que con el auge de la telefonía móvil, sería mucho más fácil llegar a un público más amplio. Para esto hemos seguido patrones altemente probados en móviles como son los presentados por Google con [Material Design](https://material.io/), centrándonos principalmente en estos dispositivos y en como son usados.
+
+[Pulsa aquí para ver en más detalle los guidelines seguidos](./P3#patrones-de-diseño-y-guidelines)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 Siguiendo los patrones de diseño y las ideas planteadas en todo el proceso, hemos realizado unos mockups que permitirán guiar una fase de desarrollo posterior. Esta es la primera alternativa de diseño presentada de los principales componentes de la aplicación:
+
+|                  |                   |                   |                   |
+|------------------|-------------------|-------------------|-------------------|
+![](imagenes/layout/1.png) | ![](imagenes/layout/2.png) | ![](imagenes/layout/3.png) | ![](imagenes/layout/4.png) |
+![](imagenes/layout/5.png) | ![](imagenes/layout/6.png) | ![](imagenes/layout/7.png) | ![](imagenes/layout/8.png) |
 
 3.e Case Study
 ----
