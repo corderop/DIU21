@@ -122,6 +122,10 @@ Para realizar los diseños hemos utilizado Figma, con las plantillas de Material
 
 ## Caso de estudio
 
+El caso de estudio está reflejado en el [readme principal](../README.md) y en el siguiente vídeo: 
+
+https://user-images.githubusercontent.com/31637109/118174813-95864780-b42f-11eb-8f3d-2a631d21447e.mp4
+
 ## Conclusión
 
 Hemos visto esta práctica muy completa en todos los sentidos. Nos gusta que haya sido tan secuencial, siguiendo un camino "iterativo" aplicando en cada paso lo realizado en el anterior. Por otra parte, nos ha gustado que tenga una continuidad con la anterior práctica, cosa que criticamos con las anteriores. 
