@@ -49,6 +49,7 @@ Para analizar la plataforma anteriormente mencionada decidimos plantear dos tipo
 Tras plantear los dos personas, queríamos realizar una simulación de uso de estas personas en la aplicación Inspirock. Hemos querido localizar los puntos débiles y puntos fuertes del funcionamiento y diseño de esta y de dicha forma plantear una mejor solución, evitando los errores de esta.
 
 [Pulsa aquí para ver el Journey Map de Juan Bolívar](./P1/3.JourneyMaps/journeyMap_man.png)
+
 [Pulsa aquí para ver el Journey Map de Aliona Ekaterina](./P1/3.JourneyMaps/journeyMap_woman.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -152,7 +153,7 @@ Para plasmar la idea de como sería nuestra aplicación creamos unos bocetos que
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-Para el logotipo hemos querido utilizar el color principal planteador en el [diseño visual](enlace) y hacerlo sobre un fondo sólido. Esto entre otras cosas nos permitirá adaptarlo a diferentes formatos y resoluciones, así como usarlo en negativo. Por otra parte, quisimos reflejar en el la temática de la aplicación representando la forma de un país en él. 
+Para el logotipo hemos querido utilizar el color principal planteador en el [diseño visual](./P3/imagenes/moodboard.png) y hacerlo sobre un fondo sólido. Esto entre otras cosas nos permitirá adaptarlo a diferentes formatos y resoluciones, así como usarlo en negativo. Por otra parte, quisimos reflejar en el la temática de la aplicación representando la forma de un país en él. 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
