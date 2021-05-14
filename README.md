@@ -80,6 +80,8 @@ En ella presentamos una planteamiento visual sobre las principales ideas que que
 
 A continuación, hemos realizar un análisis sobre los intereses que tendrán los personajes ficticios previamente propuestos, conforme a nuestra propuesta de aplicación.
 
+[Pulsa aquí para ver los mapas de empatía más detalladamente](./P2#mapa-de-empatía)
+
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
