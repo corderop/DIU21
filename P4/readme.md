@@ -38,7 +38,7 @@ Con una puntuación media de **77.5**, entraría dentro del apartado de bueno. E
 
 ## Caso 2
 
-El análisis del caso B será del producto [**Senderismo Gastronómico en Granada**](https://github.com/MiguelangelX72/DIU21/). En este caso hemos 
+El análisis del caso B será del producto [**Senderismo Gastronómico en Granada**](https://github.com/MiguelangelX72/DIU21/). Al igual que en el caso anterior, hemos creado dos personas ficticias de forma aleatoria. A partir de estas creaciones, hemos buscado personas con perfiles parecidos, para aplicar el proceso. 
 
 | #id.usuario | Sexo/edad | Ocupación         | Experiencia internet | Plataforma         | Perfil cubierto                    | TEST | SUS score |
 |-------------|-----------|-------------------|----------------------|--------------------|------------------------------------|------|-----------|
@@ -52,6 +52,13 @@ Para la evaluación, las tareas propuestas a realizar por el usuario son las sig
 - Reserva de bares alrededor de la ruta (caso 2)
 - Solicitud de ayuda en la página
 - Cancelación de una reserva.
+
+<!-- | Participant      | Task 1 | Task 2 | Task 3 | Task 4 | Task 5 |
+|------------------|:------:|:------:|:------:|:------:|:------:|
+|         1        |    √   |   √    |    -   |   √    |    -   |
+|         2        |    √   |   √    |    √   |   √    |    √   |
+|      Success     |    2   |    2   |    1   |    2   |   1    |
+| Completion Rates |  100%  |  100%  |  50%  |   100%  |   50%  | -->
 
 
 Para este caso se ha realizado un (informe de usabilidad)(./Usability-test.pdf)
