@@ -38,6 +38,7 @@ Con una puntuación media de **77.5**, entraría dentro del apartado de bueno. E
 
 ## Caso 2
 
+El análisis del caso B será del producto [**Senderismo Gastronómico en Granada**](https://github.com/MiguelangelX72/DIU21/). En este caso hemos 
 
 | #id.usuario | Sexo/edad | Ocupación         | Experiencia internet | Plataforma         | Perfil cubierto                    | TEST | SUS score |
 |-------------|-----------|-------------------|----------------------|--------------------|------------------------------------|------|-----------|
