@@ -4,7 +4,7 @@ Para realizar evaluar el diseño de dos tipos de proyectos diferentes cuyas idea
 
 ## Caso 1
 
-El primero de los casos es el nuestro propio, la aplicación **Tranger**. Para esta hemos creado dos personas ficticias de forma aleatoria. A partir de estas creaciones, hemos buscado personas con perfiles parecidos, para aplicar el proceso
+El primero de los casos es el nuestro propio, la aplicación **Tranger**. Para esta hemos creado dos personas ficticias de forma aleatoria. A partir de estas creaciones, hemos buscado personas con perfiles parecidos, para aplicar el proceso.
 
 | #id.usuario | Sexo/edad | Ocupación         | Experiencia internet | Plataforma         | Perfil cubierto                    | TEST | SUS score |
 |-------------|-----------|-------------------|----------------------|--------------------|------------------------------------|------|-----------|
@@ -34,10 +34,15 @@ A la hora de analizar los resultados hemos dedicido utilizar la escala *Adjectiv
 
 ![escala sus](./sus-scale-adj.jpg)
 
-Con una puntuación media de **77.5**, entraría dentro del apartado de bueno. Esto nos hacer ver que el diseño es correcto pero tiene algunos apartados por pulir. 
-
+Con una puntuación media de **77.5**, entraría dentro del apartado de bueno. Esto nos hacer ver que el diseño es correcto pero tiene algunos apartados por pulir. El diseño es correcto pero se debería buscar diseños más fáciles de comprender para el usuario, aumentando así la comodidad de la visita a la plataforma, buscando alternativas más cotidianas para el usuario.
 
 ## Caso 2
+
+
+| #id.usuario | Sexo/edad | Ocupación         | Experiencia internet | Plataforma         | Perfil cubierto                    | TEST | SUS score |
+|-------------|-----------|-------------------|----------------------|--------------------|------------------------------------|------|-----------|
+| 221         | Mujer     | Jubilada          | Baja                 | Windows / Android  | Familiar,  Hablar idioma, Enfadada | B    | 50        |
+| 515         | Hombre    | Director de banco | Alta                 | Mac / Iphone       | Trabajador, estudiar, disgustado   | B    | 70        |
 
 Para la evaluación, las tareas propuestas a realizar por el usuario son las siguientes: 
 
@@ -47,15 +52,8 @@ Para la evaluación, las tareas propuestas a realizar por el usuario son las sig
 - Solicitud de ayuda en la página
 - Cancelación de una reserva.
 
-| #id.usuario | Sexo/edad | Ocupación         | Experiencia internet | Plataforma         | Perfil cubierto                    | TEST | SUS score |
-|-------------|-----------|-------------------|----------------------|--------------------|------------------------------------|------|-----------|
-| 221         | Mujer     | Jubilada          | Baja                 | Windows / Android  | Familiar,  Hablar idioma, Enfadada | B    | 50        |
-| 515         | Hombre    | Director de banco | Alta                 | Mac / Iphone       | Trabajador, estudiar, disgustado   | B    | 70        |
 
 Para este caso se ha realizado un (informe de usabilidad)(./Usability-test.pdf)
-
-## User Testing
-
 
 ## Conclusiones
 
