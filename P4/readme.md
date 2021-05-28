@@ -92,6 +92,20 @@ A la hora de analizar los resultados hemos decidido utilizar la escala *Adjectiv
 
 ![escala sus](./sus-scale-adj.jpg)
 
+### Problemas encontrados y soluciones propuestas
+
+1. En primer lugar, encontramos una captura de la apps estudiada y visualizamos un error claro de diseño como es el del apartado “Carrito de la compra” del menú desplegable. Debido a que para este tipo de aplicaciones consideramos que no se realiza ningún tipo de compra sino una reserva ese apartado sería demasiado confuso tanto el título como el icono por lo que consideramos cambiarlos.
+
+    <img src="capturas/1.png" width="300px" />
+
+2. En esta segunda captura mostrada, volvemos a visualizar un botón de “Añadir Carrito”. El cual no aclara la función que realiza dentro de la apps ya que no se realiza ninguna compra sino una solicitud o búsqueda de ruta o reserva de un bar. O en un caso aclarar si las rutas explicadas son objetos de compra y se deben de adquirir, pero según la propuesta no sería de esta forma por lo que este botón consideramos que llevaría a error de comprensión y propondremos un cambio en el título del botón.
+
+    <img src="capturas/2.png" width="300px" />
+
+3.  Además de la gran extensión que tiene esta página, buscaríamos una solución para no mostrar tanta densidad de página como sería un scroll o poner un apartado de “Leer más” dentro del apartado de descripción de la actividad o ruta.
+
+### Análisis final
+
 Con una puntuación media de **60**, entraría dentro del apartado de *OK*. Esto nos hace ver que el diseño no es malo pero tiene varios puntos que corregir.
 
 En primer lugar, ambos usuarios han destacado que algunas funciones de la plataforma no están suficientemente especificadas como por ejemplo el apartado de “Carrito de la Compra”. Debido a que no se realiza ninguna acción de comprar dentro de la aplicación sino acciones de reserva.
