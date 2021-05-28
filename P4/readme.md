@@ -120,4 +120,10 @@ Para este caso se ha realizado un [informe de usabilidad](./Usability-test.pdf)
 
 ## Conclusiones
 
-Creemos que la propuesta B necesita mejorar algunos aspectos, como evitar la sobrecarga de información en la plataforma, aclarar los apartados dentro de la aplicación y buscar una mejor armonía de colores, aunque consideramos que la aplicación tiene un gran potencial, por su idea de negocio y planteamiento de diseño con respecto a otras alternativas actuales. 
+Como bien hemos podido observar en las puntuaciones obtenidas para ambos casos, se considera mejor propuesta a Caso 1 "Tranger" con una puntuación de 77,5 mientras que el  Caso 2 " Senderismo Grastronómico en Granada" tendría una puntuación de 60. Aunque esto puede deberse también al tipo de usuario usado para el test A/B, ya que la muestra de usuarios es pequeña, bajo nuestro punto de vista la aplicación A tiene un mejor diseño e idea de proyecto, ya que la función que se propone en la aplicación B es un tipo de tarea común dentro de muchos foros de interés sobre senderismo.
+
+Además hemos visualizado varios errores de diseño que podrían llevar al usuario a un mal uso o confusión dentro de la aplicacíón.
+
+## Conclusión sobre la práctica
+
+Por último, nos gustaría concluir que esta práctica es una de las más importantes dentro de la asignatura ya que nos permite analizar con detenimiento los puntos fuertes y débiles de nuestra propuesta. Además que nos proporciona un caracter crítico de otras propuestas y puntos de vista diferentes para poder mejorar nuestro proyecto.
