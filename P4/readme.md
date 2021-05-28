@@ -42,7 +42,7 @@ Una vez realizadas las tareas realizamos se le aplica el cuestionario SUS a los 
 | 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |    | 2 |   |   |   |
 |    |                                                                         Valoración final | 77.5 |   |   |   |   |
 
-*Los datos del cuestionario SUS se pueden encontrar en la [hoja de cálculo](./Cuestionario SUS DIU.xlsx) o [PDF](./Cuestionario SUS DIU.pdf) correpondiente*
+*Los datos del cuestionario SUS se pueden encontrar en la [hoja de cálculo](./Cuestionario_SUS.xlsx) o [PDF](./Cuestionario_SUS.pdf) correpondiente*
 
 A la hora de analizar los resultados hemos decidido utilizar la escala *Adjective* debido a que es una escala no demasiado exigente para ver buenos resultados, y que permite separar buenos resultados de excelentes, al igual que malos de nefastos. Se puede ver un nivel de estudio más específico utilizando esta escala.  
 
