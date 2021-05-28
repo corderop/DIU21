@@ -195,10 +195,7 @@ https://user-images.githubusercontent.com/31637109/118174813-95864780-b42f-11eb-
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
 [Senderismo Gastronómico en Granada](https://github.com/MiguelangelX72/DIU21/) es una aplicación para buscar trayectos guiados de senderismo por Granada. No solo trata de senderismo, si no que combina esto con paradas gastronómicas en bares de la zona. En base a una ruta, permite reservar los bares a los que se va a ir. Entre otras características, permite llevar un control calórico, tanto de la ruta como de las comidas realizadas. Permite realizar pagos antes de visitar los lugares y está adaptada para diferentes idiomas.
-
-
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----

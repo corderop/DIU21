@@ -8,8 +8,8 @@ El primero de los casos es el nuestro propio, la aplicación **Tranger**. Para e
 
 | #id.usuario | Sexo/edad | Ocupación         | Experiencia internet | Plataforma         | Perfil cubierto                    | TEST | SUS score |
 |-------------|-----------|-------------------|----------------------|--------------------|------------------------------------|------|-----------|
-| 352         | Hombre    | Desempleado       | Media                | Windows / Android  | Amigable, Fotógrafo, Asustado      | A    | 75        |
-| 533         | Mujer     | Comercial         | Media                | Windows/ Iphone    | Trabajadora, Bailar, Feliz         | A    | 80        |
+| 352         | Hombre / 42   | Desempleado       | Media                | Windows / Android  | Amigable, Fotógrafo, Asustado      | A    | 75        |
+| 533         | Mujer / 33    | Comercial         | Media                | Windows/ Iphone    | Trabajadora, Bailar, Feliz         | A    | 80        |
 
 Para la evaluación, las tareas propuestas a realizar por el usuario son las siguientes: 
 
@@ -42,6 +42,8 @@ Una vez realizadas las tareas realizamos se le aplica el cuestionario SUS a los 
 | 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |    | 2 |   |   |   |
 |    |                                                                         Valoración final | 77.5 |   |   |   |   |
 
+*Los datos del cuestionario SUS se pueden encontrar en la [hoja de cálculo](./Cuestionario SUS DIU.xlsx) o [PDF](./Cuestionario SUS DIU.pdf) correpondiente*
+
 A la hora de analizar los resultados hemos decidido utilizar la escala *Adjective* debido a que es una escala no demasiado exigente para ver buenos resultados, y que permite separar buenos resultados de excelentes, al igual que malos de nefastos. Se puede ver un nivel de estudio más específico utilizando esta escala.  
 
 ![escala sus](./sus-scale-adj.jpg)
@@ -54,8 +56,8 @@ El análisis del caso B será del producto [**Senderismo Gastronómico en Granad
 
 | #id.usuario | Sexo/edad | Ocupación         | Experiencia internet | Plataforma         | Perfil cubierto                    | TEST | SUS score |
 |-------------|-----------|-------------------|----------------------|--------------------|------------------------------------|------|-----------|
-| 221         | Mujer     | Jubilada          | Baja                 | Windows / Android  | Familiar,  Hablar idioma, Enfadada | B    | 50        |
-| 515         | Hombre    | Director de banco | Alta                 | Mac / Iphone       | Trabajador, estudiar, disgustado   | B    | 70        |
+| 221         | Mujer / 66 | Jubilada          | Baja                 | Windows / Android  | Familiar,  Hablar idioma, Enfadada | B    | 50        |
+| 515         | Hombre / 53 | Director de banco | Alta                 | Mac / Iphone       | Trabajador, estudiar, disgustado   | B    | 70        |
 
 Para la evaluación, las tareas propuestas a realizar por el usuario son las siguientes: 
 
@@ -87,6 +89,8 @@ Una vez realizadas las tareas realizamos se le aplica el cuestionario SUS a los 
 | 9  | Me sentí muy confiado en el manejo del website                                           |    |   |   | 2 |   |
 | 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |  1 |   |   |   |   |
 |    |                                                                         Valoración final | 60 |   |   |   |   |
+
+*Los datos del cuestionario SUS se pueden encontrar en la [hoja de cálculo](./Cuestionario SUS DIU.xlsx) o [PDF](./Cuestionario SUS DIU.pdf) correpondiente*
 
 A la hora de analizar los resultados hemos decidido utilizar la escala *Adjective* debido a que es una escala no demasiado exigente para ver buenos resultados, y que permite separar buenos resultados de excelentes, al igual que malos de nefastos. Se puede ver un nivel de estudio más específico utilizando esta escala.  
 
