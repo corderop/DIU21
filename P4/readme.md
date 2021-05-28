@@ -120,9 +120,9 @@ Para este caso se ha realizado un [informe de usabilidad](./Usability-test.pdf)
 
 ## Conclusiones
 
-Como bien hemos podido observar en las puntuaciones obtenidas para ambos casos, se considera mejor propuesta a Caso 1 "Tranger" con una puntuación de 77,5 mientras que el  Caso 2 " Senderismo Grastronómico en Granada" tendría una puntuación de 60. Aunque esto puede deberse también al tipo de usuario usado para el test A/B, ya que la muestra de usuarios es pequeña, bajo nuestro punto de vista la aplicación A tiene un mejor diseño e idea de proyecto, ya que la función que se propone en la aplicación B es un tipo de tarea común dentro de muchos foros de interés sobre senderismo.
+Como bien hemos podido observar en las puntuaciones obtenidas para ambos casos, se considera mejor propuesta a Caso 1 "Tranger" con una puntuación de 77,5 mientras que el  Caso 2 "Senderismo Grastronómico en Granada" tendría una puntuación de 60. Aunque esto puede deberse también al tipo de usuario usado para el test A/B, ya que la muestra de usuarios es pequeña, bajo nuestro punto de vista la aplicación A tiene un mejor diseño e idea de proyecto, ya que la función que se propone en la aplicación B es un tipo de tarea común dentro de muchos foros de interés sobre senderismo.
 
-Además hemos visualizado varios errores de diseño que podrían llevar al usuario a un mal uso o confusión dentro de la aplicacíón.
+Además hemos visualizado varios errores de diseño que podrían llevar al usuario a un mal uso o confusión dentro de la aplicacíón. Otra cosa a destacar es que el mercado al que va dirigida la propuesta B es muy reducido debido a que, como su nombre indica, solo está dirigida a gente de Granada.
 
 ## Conclusión sobre la práctica
 

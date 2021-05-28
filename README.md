@@ -196,41 +196,72 @@ https://user-images.githubusercontent.com/31637109/118174813-95864780-b42f-11eb-
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+[Senderismo Gastronómico en Granada](https://github.com/MiguelangelX72/DIU21/) es una aplicación para buscar trayectos guiados de senderismo por Granada. No solo trata de senderismo, si no que combina esto con paradas gastronómicas en bares de la zona. En base a una ruta, permite reservar los bares a los que se va a ir. Entre otras características, permite llevar un control calórico, tanto de la ruta como de las comidas realizadas. Permite realizar pagos antes de visitar los lugares y está adaptada para diferentes idiomas.
+
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Hemos seleccionado a 4 personas distinas, generadas de forma aleatoria:
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| #id.usuario | Sexo/edad | Ocupación         | Experiencia internet | Plataforma         | Perfil cubierto                    | TEST | SUS score |
+|-------------|-----------|-------------------|----------------------|--------------------|------------------------------------|------|-----------|
+| 352         | Hombre    | Desempleado       | Media                | Windows / Android  | Amigable, Fotógrafo, Asustado      | A    | 75        |
+| 533         | Mujer     | Comercial         | Media                | Windows/ Iphone    | Trabajadora, Bailar, Feliz         | A    | 80        |
+| 221         | Mujer     | Jubilada          | Baja                 | Windows / Android  | Familiar,  Hablar idioma, Enfadada | B    | 50        |
+| 515         | Hombre    | Director de banco | Alta                 | Mac / Iphone       | Trabajador, estudiar, disgustado   | B    | 70        |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+**Caso A**
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+|    | PREGUNTAS                                                                                |  1 | 2 | 3 | 4 | 5 |
+|----|------------------------------------------------------------------------------------------|:--:|:-:|:-:|:-:|:-:|
+| 1  | Creo que me gustará visitar con frecuencia este website                                  |    |   | 1 | 1 |   |
+| 2  | Encontré el website innecesariamente complejo                                            |  1 | 1 |   |   |   |
+| 3  | Pensé que era fácil utilizar este website                                                |    |   |   | 1 | 1 |
+| 4  | Creo que necesitaría del apoyo de un experto para recorrer el website                    |    | 1 |   | 1 |   |
+| 5  | Encontré las funciones del website bastante bien integradas                              |    |   |   | 2 |   |
+| 6  | Pensé que había demasiada inconsistencia en el website                                   |    | 2 |   |   |   |
+| 7  | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |    |   | 1 |   | 1 |
+| 8  | Encontré el website muy grande al recorrerlo                                             |  1 | 1 |   |   |   |
+| 9  | Me sentí muy confiado en el manejo del website                                           |    |   | 1 | 1 |   |
+| 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |    | 2 |   |   |   |
+|    |                                                                         Valoración final | 77.5 |   |   |   |   |
+
+Con una puntuación media de **77.5**, entraría dentro del apartado de bueno de la [escala utilizada en el análisis](./P4/sus-scale-adj.jpg). Esto nos hacer ver que el diseño es correcto pero tiene algunos apartados por pulir. El diseño es correcto pero se debería buscar diseños más fáciles de comprender para el usuario, aumentando así la comodidad de la visita a la plataforma, buscando alternativas más cotidianas para el usuario.
+
+**Caso B**
+
+|    | PREGUNTAS                                                                                |  1 | 2 | 3 | 4 | 5 |
+|----|------------------------------------------------------------------------------------------|:--:|:-:|:-:|:-:|:-:|
+| 1  | Creo que me gustará visitar con frecuencia este website                                  |    | 1 |   | 1 |   |
+| 2  | Encontré el website innecesariamente complejo                                            |  1 |   | 1 |   |   |
+| 3  | Pensé que era fácil utilizar este website                                                |    |   | 1 | 1 |   |
+| 4  | Creo que necesitaría del apoyo de un experto para recorrer el website                    |  1 | 1 |   |   |   |
+| 5  | Encontré las funciones del website bastante bien integradas                              |    | 2 |   |   |   |
+| 6  | Pensé que había demasiada inconsistencia en el website                                   |    |   | 2 |   |   |
+| 7  | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |    |   |   | 2 |   |
+| 8  | Encontré el website muy grande al recorrerlo                                             |    |   |   | 2 |   |
+| 9  | Me sentí muy confiado en el manejo del website                                           |    |   |   | 2 |   |
+| 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |  1 |   |   |   |   |
+|    |                                                                         Valoración final | 60 |   |   |   |   |
+
+Con una puntuación media de **60**, entraría dentro del apartado de *OK*. Esto nos hace ver que el diseño no es malo pero tiene varios puntos que corregir. Estos puntos están explicados detalladamente en la [documentación del análisis](./P4).
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Para el caso B se ha realizado un [informe de usabilidad](./Usability-test.pdf)
 
+Con las puntuaciones obtenidas, se considera mejor propuesta a Caso 1 "Tranger" con una puntuación de 77,5 mientras que el  Caso 2 "Senderismo Grastronómico en Granada" tendría una puntuación de 60. Aunque esto puede deberse también al tipo de usuario usado para el test A/B, ya que la muestra de usuarios es pequeña, bajo nuestro punto de vista la aplicación A tiene un mejor diseño e idea de proyecto, ya que la función que se propone en la aplicación B es un tipo de tarea común dentro de muchos foros de interés sobre senderismo.
 
-
->>> Valoración personal 
+Además hemos visualizado varios errores de diseño que podrían llevar al usuario a un mal uso o confusión dentro de la aplicacíón. Otra cosa a destacar es que el mercado al que va dirigida la propuesta B es muy reducido debido a que, como su nombre indica, solo está dirigida a gente de Granada.
 
 
 ## Paso 5. Evaluación de Accesibilidad  
